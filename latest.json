@@ -1,8 +1,8 @@
 {
-  "version": "1.0.0",
-  "downloadUrl": "",
+  "version": "1.0.1",
+  "downloadUrl": "https://github.com/Elite519/YTD-Releases/blob/main/ytd.zip",
   "updaterUrl": "https://raw.githubusercontent.com/Elite519/YTD-Releases/main/YTD.Updater.exe",
   "sha256": "",
   "updaterSha256": "",
-  "notes": "Workin on stuff :). YTD."
+  "notes": "Hi So dis one reqired that you have .Net8 installed on you pc so if you don't then don't update and install .Net 8 pls the Installer should of forced you to. Alright by :) YTD. "
 }
