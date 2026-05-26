@@ -1,6 +1,8 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "downloadUrl": "",
+  "updaterUrl": "",
   "sha256": "",
-  "notes": "First updater test."
+  "updaterSha256": "",
+  "notes": "workin of stuff :) YTD."
 }
