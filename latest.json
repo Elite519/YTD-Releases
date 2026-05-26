@@ -1,8 +1,8 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.0",
   "downloadUrl": "",
-  "updaterUrl": "",
+  "updaterUrl": "https://raw.githubusercontent.com/Elite519/YTD-Releases/main/YTD.Updater.exe",
   "sha256": "",
   "updaterSha256": "",
-  "notes": "workin of stuff :) YTD."
+  "notes": "Workin on stuff :). YTD."
 }
