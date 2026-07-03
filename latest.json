@@ -1,8 +1,0 @@
-{
-  "version": "1.0.10",
-  "downloadUrl": "https://raw.githubusercontent.com/Elite519/YTD-Releases/main/ytd.zip",
-  "updaterUrl": "https://raw.githubusercontent.com/Elite519/YTD-Releases/main/YTD.Updater.exe",
-  "sha256": "",
-  "updaterSha256": "",
-  "notes": "Plans, redo compressor to support more codecs and fix preset errors.   Adding Embedding for thumbnails chapters etc.   Adding performence monitoring for your system - likely just temps.   Adding Network Monitor - more info later.  Reworking Updator.   Removing Color Themes. "
-}
