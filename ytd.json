@@ -1,0 +1,40 @@
+{
+  "version": "1.0.14",
+  "title": "Clipper GPU Encoding Update",
+  "summary": "The Clipper can finally use your GPU instead of beating the CPU to death.",
+  "downloadUrl": "https://raw.githubusercontent.com/Elite519/YTD-Releases/main/ytd.zip",
+  "updaterUrl": "https://raw.githubusercontent.com/Elite519/YTD-Releases/main/YTD.Updater.exe",
+  "sha256": "",
+  "updaterSha256": "",
+  "notes": "YTD Clipper update\n\n- GPU encoding is finally here, so clipping videos should be way faster now.\n- NVIDIA and AMD GPUs are supported.\n- H.264, HEVC, and AV1 can use the GPU.\n- Added a big button to switch between GPU and CPU encoding.\n- Unsupported GPUs and codecs automatically use the CPU.\n- If GPU encoding fails, the Clipper automatically retries with the CPU.\n- Intel GPUs are not supported and will use CPU encoding.\n- The title bar now shows which encoder is being used.\n- Fast Lossless still skips encoding and copies the original streams.",
+  "changes": [
+    {
+      "type": "new",
+      "text": "Added NVIDIA NVENC and AMD AMF hardware encoding."
+    },
+    {
+      "type": "new",
+      "text": "Added GPU support for H.264, HEVC, and AV1."
+    },
+    {
+      "type": "new",
+      "text": "Added a simple GPU/CPU encoding switch in the Clipper."
+    },
+    {
+      "type": "fixed",
+      "text": "Unsupported GPU codecs now automatically use the CPU."
+    },
+    {
+      "type": "fixed",
+      "text": "Failed GPU exports automatically retry with CPU encoding."
+    },
+    {
+      "type": "info",
+      "text": "Intel GPUs are not supported and use CPU encoding."
+    },
+    {
+      "type": "info",
+      "text": "The title bar now shows the active encoder."
+    }
+  ]
+}
