@@ -1,8 +1,0 @@
-{
-  "version": "1.0.13",
-  "downloadUrl": "https://raw.githubusercontent.com/Elite519/YTD-Releases/main/ytd.zip",
-  "updaterUrl": "https://raw.githubusercontent.com/Elite519/YTD-Releases/main/YTD.Updater.exe",
-  "sha256": "",
-  "updaterSha256": "",
-  "notes": "YTD Clipper update\n\n- Added NVIDIA and AMD GPU encoding.\n- Added H.264, HEVC, and AV1 hardware encoding.\n- Added a GPU/CPU switch.\n- GPU failures automatically retry with CPU.\n- Intel GPUs use CPU encoding.\n- Redesigned the updater page."
-}
