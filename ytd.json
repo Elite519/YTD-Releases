@@ -1,0 +1,20 @@
+{
+"version": "1.0.15",
+"title": "Totally Normal Update",
+"summary": "Don't click the YTD logo 5 times :)",
+"downloadUrl": "https://raw.githubusercontent.com/Elite519/YTD-Releases/main/ytd.zip",
+"updaterUrl": "https://raw.githubusercontent.com/Elite519/YTD-Releases/main/YTD.Updater.exe",
+"sha256": "",
+"updaterSha256": "",
+"notes": "YTD v1.0.15\n\n- Don't click the YTD logo 5 times :)\n- Fixin Compressor and Clipper soon.\n- I can make the image whatever lol.",
+"changes": [
+{
+"type": "info",
+"text": "Fixin Compressor and Clipper soon."
+},
+{
+"type": "info",
+"text": "I can make the image whatever lol."
+}
+]
+}
