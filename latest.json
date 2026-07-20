@@ -1,8 +1,8 @@
 {
-  "version": "1.0.13",
+  "version": "1.0.14",
   "downloadUrl": "https://raw.githubusercontent.com/Elite519/YTD-Releases/main/ytd.zip",
   "updaterUrl": "https://raw.githubusercontent.com/Elite519/YTD-Releases/main/YTD.Updater.exe",
   "sha256": "",
   "updaterSha256": "",
-  "notes": "Update Added Monitor Click C G then allow admin then click again and you got a little monitor IF IT FAILS TO WORK FOR YOU then well lmk ig"
+  "notes": "YTD Clipper update\n\n- Added NVIDIA and AMD GPU encoding.\n- Added H.264, HEVC, and AV1 hardware encoding.\n- Added a GPU/CPU switch.\n- GPU failures automatically retry with CPU.\n- Intel GPUs use CPU encoding.\n- Redesigned the updater page."
 }
