@@ -1,7 +1,7 @@
 {
-  "version": "1.0.16",
-  "title": "Fixin Stuff",
-  "summary": "Fixed Compressor and Clipper.",
+  "version": "1.0.17",
+  "title": "Overhall",
+  "summary": "Compressor Overhall",
   "downloadUrl": "https://raw.githubusercontent.com/Elite519/YTD-Releases/main/ytd.zip",
   "updaterUrl": "https://raw.githubusercontent.com/Elite519/YTD-Releases/main/YTD.Updater.exe",
   "sha256": "",
@@ -10,11 +10,11 @@
   "changes": [
     {
       "type": "fixed",
-      "text": "Fixed Compressor and Clipper"
+      "text": "Compressor Majorly"
     },
     {
       "type": "info",
-      "text": "Jimmy's gay"
+      "text": "RIP other UI"
     }
   ]
 }
