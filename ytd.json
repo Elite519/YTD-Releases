@@ -1,7 +1,7 @@
 {
-  "version": "1.0.18",
-  "title": "Patch",
-  "summary": "Small patch",
+  "version": "1.0.19",
+  "title": "Major Patch",
+  "summary": "Clipper work flawlessly now",
   "downloadUrl": "https://raw.githubusercontent.com/Elite519/YTD-Releases/main/ytd.zip",
   "updaterUrl": "https://raw.githubusercontent.com/Elite519/YTD-Releases/main/YTD.Updater.exe",
   "sha256": "",
@@ -10,11 +10,11 @@
   "changes": [
     {
       "type": "changed",
-      "text": "Removed Meta data"
+      "text": "Clipper has Compressor parts in it now"
     },
     {
-      "type": "info",
-      "text": "Next update is optimizations/bugs"
+      "type": "changed",
+      "text": "Removed Meta data"
     }
   ]
 }
